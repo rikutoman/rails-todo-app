@@ -1,0 +1,15 @@
+current directory: /Users/joker/Desktop/myapp/rails-todo-sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/joker/.anyenv/envs/rbenv/versions/2.6.3/bin/ruby -I /Users/joker/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200303-18922-16uxh00.rb extconf.rb
+creating Makefile
+
+current directory: /Users/joker/Desktop/myapp/rails-todo-sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/joker/Desktop/myapp/rails-todo-sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/joker/Desktop/myapp/rails-todo-sample/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200303-18922-btz1z1/skiptrace/internal
